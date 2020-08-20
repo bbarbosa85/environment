@@ -1,2 +1,5 @@
-# slate
-My Mac slate config
+# My personal environment Configs
+
+- slate
+- VSCode Keybindings
+
